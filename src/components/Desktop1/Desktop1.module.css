@@ -1,0 +1,991 @@
+.root {
+  position: relative;
+  width: 1292px;
+  height: 2919px;
+  align-items: flex-start;
+  background-color: #142d6b;
+  overflow: hidden;
+}
+.backgrounEffect {
+  position: absolute;
+  left: 193px;
+  top: -262px;
+  width: 1452.5px;
+  height: 1018px;
+  overflow: visible;
+  filter: blur(150px);
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.discoverAndCollectRareNFTs {
+  color: #fff;
+  font-size: 70px;
+  line-height: 110%;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 9.9845%;
+  right: 54.644%;
+  top: calc(50% - 1187.5px);
+  height: 298px;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.theMostSecureMarketplaceForBuy {
+  position: absolute;
+  left: 10.2941%;
+  right: 60.8359%;
+  top: 13.0524%;
+  bottom: 85.0634%;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rectangle20 {
+  position: absolute;
+  left: 114px;
+  top: 463px;
+  width: 165px;
+  height: 67px;
+  border-radius: 100px;
+  background-color: #7576d3;
+}
+.buyNfts {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 11.5325%;
+  right: 79.7214%;
+  top: 16.581%;
+  bottom: 82.5283%;
+  flex-direction: column;
+}
+.rectangle202 {
+  position: absolute;
+  left: 294px;
+  top: 463px;
+  width: 165px;
+  height: 67px;
+  outline: solid 1px #a1d5d6;
+  outline-offset: -1px;
+  border-radius: 100px;
+}
+.sellNfts {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 25.4644%;
+  right: 65.7895%;
+  top: 16.581%;
+  bottom: 82.5283%;
+  flex-direction: column;
+}
+.backgrounEffect2 {
+  position: absolute;
+  left: -100px;
+  top: 671px;
+  width: 1452.5px;
+  height: 1018px;
+  overflow: visible;
+  filter: blur(150px);
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.krypto {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: lowercase;
+  position: absolute;
+  left: 9.9845%;
+  right: 83.2817%;
+  top: 1.1648%;
+  bottom: 97.876%;
+  height: min-content;
+  flex-direction: column;
+}
+.about {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 58.5139%;
+  right: 34.7523%;
+  top: 1.1648%;
+  bottom: 97.876%;
+  height: min-content;
+  flex-direction: column;
+}
+.pricing {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 67.1827%;
+  right: 26.0836%;
+  top: 1.1648%;
+  bottom: 97.876%;
+  height: min-content;
+  flex-direction: column;
+}
+.contact {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 75.8514%;
+  right: 17.4149%;
+  top: 1.1648%;
+  bottom: 97.876%;
+  height: min-content;
+  flex-direction: column;
+}
+.buyNfts2 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 84.5201%;
+  right: 8.7461%;
+  top: 1.1648%;
+  bottom: 97.876%;
+  height: min-content;
+  flex-direction: column;
+}
+.featuredOn {
+  color: #fff;
+  font-size: 40px;
+  line-height: 27.5px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 8.8235%;
+  right: 59.1331%;
+  top: 20.9318%;
+  bottom: 78.0747%;
+  flex-direction: column;
+}
+.rectangle19 {
+  position: absolute;
+  left: 114px;
+  top: 671px;
+  width: 1065px;
+  height: 87px;
+  background-color: #1f1a55;
+}
+.image5 {
+  position: absolute;
+  left: 523px;
+  top: 703px;
+  width: 190px;
+  height: 29px;
+  background-image:/* webpackIgnore: true */ url('assets/image5.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image6 {
+  position: absolute;
+  left: 204px;
+  top: 676px;
+  width: 213px;
+  height: 78px;
+  background-image:/* webpackIgnore: true */ url('assets/image6.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image7 {
+  position: absolute;
+  left: 805px;
+  top: 694px;
+  width: 76px;
+  height: 42px;
+  background-image:/* webpackIgnore: true */ url('assets/image7.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image8 {
+  position: absolute;
+  left: 959px;
+  top: 698px;
+  width: 130px;
+  height: 34px;
+  background-image:/* webpackIgnore: true */ url('assets/image8.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.builtInAnalyticsToTrackYourNft {
+  color: #fff;
+  font-size: 40px;
+  line-height: 110%;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 55.7276%;
+  right: 10.7585%;
+  top: 29.2566%;
+  bottom: 66.1528%;
+  flex-direction: column;
+}
+.theMostSecureMarketplaceForBuy2 {
+  position: absolute;
+  left: 56.1146%;
+  right: 15.0155%;
+  top: 33.8472%;
+  bottom: 64.2686%;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock3 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.buyNFT {
+  position: absolute;
+  left: 720px;
+  top: 1071px;
+  width: 364px;
+  height: 85px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 27px 0 0 94px;
+  border-radius: 100px;
+  background-color: #7576d3;
+}
+.viewOurPricing {
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock5 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+}
+.aNALYTICS {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 56.1146%;
+  right: 15.0155%;
+  top: 28.0918%;
+  bottom: 70.949%;
+  height: min-content;
+  flex-direction: column;
+}
+.builtInAnalyticsToTrackYourNft2 {
+  color: #fff;
+  font-size: 40px;
+  line-height: 110%;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 14.9381%;
+  right: 51.548%;
+  top: 43.4738%;
+  bottom: 51.9356%;
+  flex-direction: column;
+}
+.theMostSecureMarketplaceForBuy3 {
+  position: absolute;
+  left: 15.3251%;
+  right: 55.805%;
+  top: 48.0644%;
+  bottom: 50.0514%;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock7 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock8 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.buyNFT2 {
+  position: absolute;
+  left: 193px;
+  top: 1486px;
+  width: 364px;
+  height: 85px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 27px 0 0 94px;
+  border-radius: 100px;
+  background-color: #7576d3;
+}
+.viewOurPricing2 {
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock9 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+}
+.textBlock10 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+}
+.aNALYTICS2 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 15.3251%;
+  right: 55.805%;
+  top: 42.309%;
+  bottom: 56.7318%;
+  height: min-content;
+  flex-direction: column;
+}
+.objectOther17 {
+  position: absolute;
+  left: 57.5077%;
+  right: 13.1579%;
+  top: 42.309%;
+  bottom: 45.7691%;
+  background-image:/* webpackIgnore: true */ url('assets/objectOther17.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.testimonials {
+  color: #fff;
+  font-size: 30px;
+  line-height: 27.5px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 44.195%;
+  right: 39.2415%;
+  top: calc(50% - -159.5px);
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translateY(-50%);
+}
+.readWhatOthersHaveToSay {
+  position: absolute;
+  left: 38.5449%;
+  right: 31.6563%;
+  top: 57.0401%;
+  bottom: 39.9452%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock11 {
+  color: #fff;
+  font-size: 40px;
+  line-height: 110%;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+}
+.textBlock12 {
+  color: #fff;
+  font-size: 40px;
+  line-height: 110%;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+}
+.rectangle21 {
+  position: absolute;
+  left: 114px;
+  top: 1812px;
+  width: 347px;
+  height: 381px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.screenShot202259At1028 {
+  position: absolute;
+  left: 222.8632px;
+  top: 1750.4762px;
+  width: 127.1367px;
+  height: 140.5905px;
+  background-image:/* webpackIgnore: true */ url('assets/screenShot202259At1028.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 2.136752128601074px 11.523809432983398px;
+  mask-position: 2.136752128601074px 11.523809432983398px;
+  -webkit-mask-size: 125px 121px;
+  mask-size: 125px 121px;
+}
+.oliviaCole {
+  color: #fff;
+  font-size: 40px;
+  line-height: 110%;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 13.1579%;
+  right: 68.7307%;
+  top: 65.125%;
+  bottom: 33.3676%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmetConsecte {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 11.9195%;
+  right: 67.1053%;
+  top: 67.2491%;
+  bottom: 27.5779%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle212 {
+  position: absolute;
+  left: 475px;
+  top: 1812px;
+  width: 347px;
+  height: 381px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.loremIpsumDolorSitAmetConsecte2 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 39.4737%;
+  right: 39.5511%;
+  top: 67.2491%;
+  bottom: 27.5779%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.screenShot202259At10282 {
+  position: absolute;
+  left: 582px;
+  top: 1756px;
+  width: 126px;
+  height: 134px;
+  background-image:/* webpackIgnore: true */ url('assets/screenShot202259At10282.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup2.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup2.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 1px 6px;
+  mask-position: 1px 6px;
+  -webkit-mask-size: 125px 121px;
+  mask-size: 125px 121px;
+}
+.evanWhite {
+  color: #fff;
+  font-size: 40px;
+  line-height: 110%;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 41.1765%;
+  right: 40.7121%;
+  top: 65.125%;
+  bottom: 33.3676%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle213 {
+  position: absolute;
+  left: 834px;
+  top: 1812px;
+  width: 347px;
+  height: 381px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.loremIpsumDolorSitAmetConsecte3 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 67.4923%;
+  right: 11.5325%;
+  top: 67.2491%;
+  bottom: 27.5779%;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.jessicaPage {
+  color: #fff;
+  font-size: 40px;
+  line-height: 110%;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 67.6471%;
+  right: 11.6099%;
+  top: 65.125%;
+  bottom: 33.3676%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.screenShot202259At10283 {
+  position: absolute;
+  left: 937px;
+  top: 1756px;
+  width: 133px;
+  height: 134px;
+  background-image:/* webpackIgnore: true */ url('assets/screenShot202259At10283.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/maskGroup3.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/maskGroup3.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: 8px 6px;
+  mask-position: 8px 6px;
+  -webkit-mask-size: 125px 121px;
+  mask-size: 125px 121px;
+}
+.rectangle22 {
+  position: absolute;
+  left: 130px;
+  top: 2236px;
+  width: 1065px;
+  height: 459px;
+  border-radius: 100px;
+  background-image: linear-gradient(136.4deg, #655adfff 0%, #a1d5d6ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.buyNFT3 {
+  position: absolute;
+  left: 491px;
+  top: 2558px;
+  width: min-content;
+  height: min-content;
+  padding: 27px 94px;
+  border-radius: 100px;
+  background-color: #000;
+}
+.getStarted {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.areYouReady {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 44.582%;
+  right: 42.0279%;
+  top: 78.7598%;
+  bottom: 20.3152%;
+  flex-direction: column;
+}
+.beAPartOfTheNextBigThing {
+  position: absolute;
+  left: 37.3839%;
+  right: 34.1331%;
+  top: 81.1237%;
+  bottom: 15.519%;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock13 {
+  color: #fff;
+  font-size: 40px;
+  line-height: 110%;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+}
+.textBlock14 {
+  color: #fff;
+  font-size: 40px;
+  line-height: 110%;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+}
+.rectangle23 {
+  position: absolute;
+  left: 0;
+  top: 2907px;
+  width: 1292px;
+  height: 460px;
+  background-image: linear-gradient(130.9deg, #655adfff 0%, #a1d5d6ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.krypto2 {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 201px;
+  top: 2731px;
+  width: 173px;
+  height: min-content;
+  flex-direction: column;
+}
+.joinOurNewsletter {
+  color: #fff;
+  font-size: 20px;
+  line-height: 27.5px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 868px;
+  top: 2736px;
+  width: 293px;
+  height: min-content;
+  flex-direction: column;
+}
+.homeAboutBuyNFTsSellNFTs {
+  position: absolute;
+  left: 29.8762%;
+  right: 64.7833%;
+  top: 94.6557%;
+  bottom: 1.0963%;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock15 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 31px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock16 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 31px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock17 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 31px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock18 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 31px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.browseNFTsBuyNFTsSellNFTs {
+  position: absolute;
+  left: 43.4985%;
+  right: 48.9938%;
+  top: 94.6557%;
+  bottom: 2.1583%;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock19 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 31px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock20 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 31px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock21 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 31px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.emailLinkedInInstagramTwitter {
+  position: absolute;
+  left: 57.5851%;
+  right: 36.6873%;
+  top: 94.6557%;
+  bottom: 1.0963%;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock22 {
+  color: #fff;
+  font-size: 16px;
+  line-height: 31px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock23 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 31px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock24 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 31px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock25 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 31px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.krypto3 {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 386px;
+  top: 2730px;
+  width: 113px;
+  height: min-content;
+  flex-direction: column;
+}
+.market {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 576px;
+  top: 2731px;
+  width: 123px;
+  height: min-content;
+  flex-direction: column;
+}
+.contact2 {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 744px;
+  top: 2731px;
+  width: 128px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle24 {
+  position: absolute;
+  left: 865px;
+  top: 2793px;
+  width: 224px;
+  height: 32px;
+  border-radius: 100px;
+  background-color: #a1d5d7;
+}
+.emailAddress {
+  color: #fff;
+  font-size: 16px;
+  line-height: 31px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 71.2074%;
+  right: 20.0464%;
+  top: 95.7177%;
+  bottom: 3.2203%;
+  height: min-content;
+  flex-direction: column;
+}

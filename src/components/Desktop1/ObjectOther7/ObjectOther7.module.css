@@ -1,0 +1,19 @@
+.root {
+  position: absolute;
+  left: 586px;
+  top: 56px;
+  width: 575px;
+  height: 474px;
+  align-items: flex-start;
+}
+.objectOther7 {
+  position: absolute;
+  left: 4.8672%;
+  right: -4.8672%;
+  top: 0;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('assets/objectOther7.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
